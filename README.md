@@ -1,3 +1,13 @@
+# Marlin 2.0 firmware for  Anet A6 > board BigTreeTech SKR Mini E3 2.0
+# Дефолтная Marlin прошивка собранная с оригинального исходника Marlin 2.0 под принтер Anet A6 и материнкой BigTreeTech SKR Mini E3 2.0
+
+Конфиг файлы, для того чтобы собрать или поправить параметры под себя и уже готовый bin файл чтобы прошить и забыть. 
+Плата BigTreeTech SKR Mini E3 2.0 со всеми родными головами, датчиками, моторами, концевиками и прочим. 
+необходимо только перепиновать Монитор и концевики.
+
+В прошивке включен BLtoutch!
+Проект собирается проще всего без бунов с танцами через VSCODE + Platformio (его конфиг под эту плату тоже лежит в репе)
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
